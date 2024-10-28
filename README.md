@@ -1,9 +1,13 @@
-# Windows Generic Keys
+# Windows Generic Keys List
 This is a list of Windows generic license keys.
 Feel free to open an issue if there's anything missing.
 
 ## Note : **these are NOT product / license keys that are valid for Windows activation.**
 These keys only select the edition of Windows to install during setup, but they do not activate or license the installation.
+(Server versions are all the way down!)
+_____
+
+### Windows 11
 
 | Windows Version                      | Product Key                   |
 |:-------------------------------------|:------------------------------|
@@ -23,5 +27,83 @@ These keys only select the edition of Windows to install during setup, but they 
 | Windows 11 Enterprise N              | WGGHN-J84D6-QYCPR-T7PJ7-X766F |
 | Windows 11 Enterprise G              |                               |
 | Windows 11 Enterprise G N            | FW7NV-4T673-HF4VX-9X4MM-B4H4T |
-| Windows 11 Enterprise LTSC 2019      |                               |
-| Windows 11 Enterprise N LTSC 2019    |                               |
+
+### Windows 10
+
+| Windows Version                   | Product Key                   |
+|:----------------------------------|:------------------------------|
+| Windows 10 Pro                    | W269N-WFGWX-YVC9B-4J6C9-T83GX |
+| Windows 10 Pro N                  | MH37W-N47XK-V7XM9-C7227-GCQG9 |
+| Windows 10 Pro for Workstations   | NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J |
+| Windows 10 Pro N for Workstations | 9FNHH-K3HBT-3W4TD-6383H-6XYWF |
+| Windows 10 S                      | 3NF4D-GF9GY-63VKH-QRC3V-7QW8P |
+| Windows 10 Education              | NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 |
+| Windows 10 Education N            | 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ |
+| Windows 10 Pro Education          | 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y |
+| Windows 10 Pro Education N        | YVWGF-BXNMC-HTQYQ-CPQ99-66QFC |
+| Windows 10 Enterprise             | NPPR9-FWDCX-D2C8J-H872K-2YT43 |
+| Windows 10 Enterprise G           | YYVX9-NTFWV-6MDM3-9PT4T-4M68B |
+| Windows 10 Enterprise G N         | 44RPN-FTY23-9VTTB-MP9BX-T84FV |
+| Windows 10 Enterprise N           | DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 |
+| Windows 10 Enterprise S           | FWN7H-PF93Q-4GGP8-M8RF3-MDWWW |
+| Windows 10 Enterprise 2015 LTSB   | WNMTR-4C88C-JK8YV-HQ7T2-76DF9 |
+| Windows 10 Enterprise 2015 LTSB N | 2F77B-TNFGY-69QQF-B8YKP-D69TJ |
+| Windows 10 Enterprise LTSB 2016   | DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ |
+| Windows 10 Enterprise N LTSB 2016 | QFFDN-GRT3P-VKWWX-X7T3R-8B639 |
+| Windows 10 Enterprise LTSC 2019   | M7XTQ-FN8P6-TTKYV-9D4CC-J462D |
+| Windows 10 Enterprise N LTSC 2019 | 92NFX-8DJQP-P6BBQ-THF9C-7CG2H |
+
+### Windows 8.1
+
+| Windows Version                     | Product Key                   |
+|:------------------------------------|:------------------------------|
+| Windows 8.1 Core                    | 334NH-RXG76-64THK-C7CKG-D3VPT |
+| Windows 8.1 Core N                  | 6NPQ8-PK64X-W4WMM-MF84V-RGB89 |
+| Windows 8.1 Pro                     | GCRJD-8NW9H-F2CDX-CCM8D-9D6T9 |
+| Windows 8.1 Pro N                   | JRBBN-4Q997-H4RM2-H3B7W-Q68KC |
+| Windows 8.1 Pro with WMC            | GBFNG-2X3TC-8R27F-RMKYB-JK7QT |
+| Windows 8.1 Home (ARM)              | NK2V7-9DWXG-KMTWQ-K9H9M-6VHPJ |
+| Windows 8.1 Home (Country Specific) | TNH8J-KG84C-TRMG4-FFD7J-VH4WX |
+| Windows 8.1 Home (Single Language)  | Y9NXP-XT8MV-PT9TG-97CT3-9D6TC |
+| Windows 8.1 Enterprise              | FHQNR-XYXYC-8PMHT-TV4PH-DRQ3H |
+| Windows 8.1 Enterprise N            | NDRDJ-3YBP2-8WTKD-CK7VB-HT8KW |
+
+### Windows 8
+
+| Windows Version                   | Product Key                   |
+|:----------------------------------|:------------------------------|
+| Windows 8 Home                    | FB4WR-32NVD-4RW79-XQFWH-CYQG3 |
+| Windows 8 Home N                  | VDKYM-JNKJ7-DC4X9-BT3QR-JHRDC |
+| Windows 8 Home (OEM)              | 46V6N-VCBYR-KT9KT-6Y4YF-QGJYH |
+| Windows 8 Home (ARM)              | 6D4CN-WMGRW-DG8M6-XX8W9-3RPT8 |
+| Windows 8 Home (Country Specific) | XYNVP-TW798-F8893-7B89K-8QHDK |
+| Windows 8 Home (Single Language)  | XBRND-QDJTG-CQJDB-7DRBW-RX6HB |
+| Windows 8 Pro                     | XKY4K-2NRWR-8F6P2-448RF-CRYQH |
+| Windows 8 Pro N                   | BHHD4-FKNK8-89X83-HTGM4-3C73G |
+| Windows 8 Pro (OEM)               | V7C3N-3W6CM-PDKR2-KW8DQ-RJMRD |
+| Windows 8 Pro with WMC            | RR3BN-3YY9P-9D7FC-7J4YF-QGJXW |
+| Windows 8 Enterprise              | 32JNW-9KQ84-P47T8-D8GGY-CWCK7 |
+| Windows 8 Enterprise N            | NCVKH-RB9D4-R86X8-GB8WG-4M2K6 |
+
+### Windows 7
+
+| Windows Version                   | Product Key                   |
+|:----------------------------------|:------------------------------|
+| Windows 7 Starter                 | 7Q28W-FT9PC-CMMYT-WHMY2-89M6G |
+| Windows 7 Home Basic              | YGFVB-QTFXQ-3H233-PTWTJ-YRYRV |
+| Windows 7 Home Premium            | RHPQ2-RMFJH-74XYM-BH4JX-XM76F |
+| Windows 7 Professional            | HYF8J-CVRMY-CM74G-RPHKF-PW487 |
+| Windows 7 Ultimate                | D4F6K-QK3RD-TMVMJ-BBMRX-3MBMV |
+| Windows 7 Enterprise              | H7X92-3VPBB-Q799D-Y6JJ3-86WC6 |
+| Windows 7 Starter N               | D4C3G-38HGY-HGQCV-QCWR8-97FFR |
+| Windows 7 Home Basic N            | YGFVB-QTFXQ-3H233-PTWTJ-YRYRV |
+| Windows 7 Home Premium N          | MD83G-H98CG-DXPYQ-Q8GCR-HM8X2 |
+| Windows 7 Professional N          | BKFRB-RTCT3-9HW44-FX3X8-M48M6 |
+| Windows 7 Ultimate N              | HTJK6-DXX8T-TVCR6-KDG67-97J8Q |
+| Windows 7 Enterprise N            | BQ4TH-BWRRY-424Y9-7PQX2-B4WBD |
+| Windows 7 Starter E               | BRQCV-K7HGQ-CKXP6-2XP7K-F233B |
+| Windows 7 Home Basic E            | VTKM9-74GQY-K3W94-47DHV-FTXJY |
+| Windows 7 Home Premium E          | 76BRM-9Q4K3-QDJ48-FH4F3-9WT2R |
+| Windows 7 Professional E          | 3YHKG-DVQ27-RYRBX-JMPVM-WG38T |
+| Windows 7 Ultimate E              | TWMF7-M387V-XKW4Y-PVQQD-RK7C8 |
+| Windows 7 Enterprise E            | H3V6Q-JKQJG-GKVK3-FDDRF-TCKVR |
