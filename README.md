@@ -121,11 +121,103 @@ _____
 
 ### Windows XP
 
-| Windows Version                   | Product Key                   |
-|:----------------------------------|:------------------------------|
-| Windows XP Home                   |	RH6M6-7PPK4-YR86H-YFFFX-PW8M8 |
-| Windows XP Home (OEM)             |	JQ4T4-8VM63-6WFBK-KTT29-V8966 |
-| Windows XP Professional           |	CD87T-HFP4C-V7X7H-8VY68-W7D7M |
-| Windows XP Professional (OEM)     |	XJM6Q-BQ8HW-T6DFB-Y934T-YD4YT |
-| Windows XP Professional (VL)      |	M6TF9-8XQ2M-YQK9F-7TBB2-XGG88 |
-| Windows XP Professional x64 (VL)  |	B66VY-4D94T-TPPD4-43F72-8X4FY |
+| Windows Version                                     | Product Key                   |
+|:----------------------------------------------------|:------------------------------|
+| Windows XP Home                                     |	RH6M6-7PPK4-YR86H-YFFFX-PW8M8 |
+| Windows XP Home (OEM)                               |	JQ4T4-8VM63-6WFBK-KTT29-V8966 |
+| Windows XP Professional                             |	CD87T-HFP4C-V7X7H-8VY68-W7D7M |
+| Windows XP Professional (OEM)                       |	XJM6Q-BQ8HW-T6DFB-Y934T-YD4YT |
+| Windows XP Professional (VL)                        |	M6TF9-8XQ2M-YQK9F-7TBB2-XGG88 |
+| Windows XP Professional x64 (VL)                    |	B66VY-4D94T-TPPD4-43F72-8X4FY |
+
+_____
+
+### Windows Server
+#### 2025
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows Server 2025 Standard Server                  | MFY9F-XBN2F-TYFMP-CCV49-RMYVH |
+| Windows Server 2025 Datacenter Server                | 2KNJJ-33Y9H-2GXGX-KMQWH-G6H67 |
+| Windows Server 2025 Datacenter Azure Edition         | N3FPV-KQP4R-4M6H6-7Q8TK-HYMDX |
+#### 2022
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows Server 2022 Standard                         | MFY9F-XBN2F-TYFMP-CCV49-RMYVH |
+| Windows Server 2022 Standard Server Core             | V6N4W-86M3X-J77X3-JF6XW-D9PRV |
+| Windows Server 2022 Datacenter Server                | 2KNJJ-33Y9H-2GXGX-KMQWH-G6H67 |
+| Windows Server 2022 Datacenter Server Core           | B69WH-PRNHK-BXVK3-P9XF7-XD84W |
+#### 2019
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows Server 2019 Essentials                       | WVDHN-86M7X-466P6-VHXV7-YY726 |
+| Windows Server 2019 Standard                         | MFY9F-XBN2F-TYFMP-CCV49-RMYVH |
+| Windows Server 2019 Datacenter                       | WMDGN-G9PQG-XVVXX-R3X43-63DFG |
+#### 2016
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows Server 2016 Essentials                       | JCKRF-N37P4-C2D82-9YXRT-4M63B |
+| Windows Server 2016 Standard                         | WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY |
+| Windows Server 2016 Datacenter                       | CB7KF-BWN84-R7R2Y-793K2-8XDDG |
+#### 2012 R2
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows Server 2012 R2 Essentials                    | KNC87-3J2TX-XB4WP-VCPJV-M4FWM |
+| Windows Server 2012 R2 Essentials Core               | 326N4-6GMBX-PD2QT-M7HX4-TVHM8 |
+| Windows Server 2012 R2 Foundation                    | 7JGXN-BW8X3-DTJCK-WG7XB-YWP26 |
+| Windows Server 2012 R2 Foundation Core               | 7JGXN-BW8X3-DTJCK-WG7XB-YWP26 |
+| Windows Server 2012 R2 Standard                      | D2N9P-3P6X9-2R39C-7RTCD-MDVJX |
+| Windows Server 2012 R2 Standard Core                 | NB4WH-BBBYV-3MPPC-9RCMV-46XCB |
+| Windows Server 2012 R2 Datacenter                    | W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9 |
+| Windows Server 2012 R2 Datacenter Core               | BH9T4-4N7CW-67J3M-64J36-WW98Y |
+| Windows Server 2012 R2 Storage Server Standard       | H2K4M-QNKQ2-64699-FYQHD-2WDYT |
+| Windows Server 2012 R2 Storage Server Standard Core  | H2K4M-QNKQ2-64699-FYQHD-2WDYT |
+| Windows Server 2012 R2 Storage Server Workgroup      | 8N7PM-D3C64-RQVYF-MX8T7-G6MB2 |
+| Windows Server 2012 R2 Storage Server Workgroup Core | 8N7PM-D3C64-RQVYF-MX8T7-G6MB2 |
+| Microsoft Hyper-V Server 2012 R2                     | Q8R8C-T2W6H-7MGPB-4CQ9R-KR36H |
+#### 2012
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows Server 2012 Standard                         | VN93G-8PVT3-W2X3H-F3X87-FJMTW |
+| Windows Server 2012 Standard Core                    | VN93G-8PVT3-W2X3H-F3X87-FJMTW |
+| Windows Server 2012 Foundation                       | PN24B-X6THG-274MF-YHM9G-H8MVG |
+| Windows Server 2012 Datacenter                       | 2GMNX-8K7D2-X968C-7P62F-8B2QK |
+| Windows Server 2012 Datacenter Core                  | 2GMNX-8K7D2-X968C-7P62F-8B2QK |
+| Windows Server 2012 Storage Server                   | RD9XF-6N3MC-2P2R3-MK2WX-C7GCW |
+| Windows Multipoint Server 2012 Standard              | 32TNQ-HMFWQ-8R933-X6VYY-WHRFX |
+| Windows Multipoint Server 2012 Premium               | CBR2N-2HG39-2TGGT-GQB27-46V47 |
+#### Home Server 2011
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows Home Server 2011 Standard                    | BTMWJ-8KHD9-B9BX8-J7JQ9-7M6J2 |
+| Windows Home Server 2011 Premium                     | YQXDR-G2MBV-63VW2-JX8J2-FVTVG |
+#### Small Business Server 2011 (SBS)
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows SBS 2011 Standard                            | YT76W-VD3W9-QDCK4-9QFPX-WQY4J |
+| Windows SBS 2011 Premium                             | BXQQP-Q6Q6D-TR7TR-3YXQW-VFHKM |
+#### 2008 R2
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows Server 2008 R2 Foundation                    | 36RXV-4Y4PJ-B7DWH-XY4VW-KQXDQ |
+| Windows Server 2008 R2 Standard                      | YC6KT-GKW9T-YTKYR-T4X34-R7VHC |
+| Windows Server 2008 R2 Web                           | 6TPJF-RBVHG-WBW2R-86QPH-6RTM4 |
+| Windows Server 2008 R2 HPC                           | TT8MH-CG224-D3D7Q-498W2-9QCTX |
+| Windows Server 2008 R2 Enterprise                    | 489J6-VHDMP-X63PK-3K798-CPX3Y |
+| Windows Server 2008 R2 Itanium                       | GT63C-RJFQ3-4GMB6-BRFB9-CB83V |
+| Windows Server 2008 R2 Datacenter                    | 74YFP-3QFB3-KQT8W-PMXWJ-7M648 |
+| Windows Hyper-V Server 2008 R2                       | Q8R8C-T2W6H-7MGPB-4CQ9R-KR36H |
+| Windows MultiPoint Server 2010                       | 736RG-XDKJK-V34PF-BHK87-J6X3K |
+#### Small Business Server 2008 (SBS)
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows SBS 2008 Standard                            | PHYFD-HQ4XW-78PR4-2CXKF-V67KJ |
+| Windows SBS 2008 Premium                             | 4TMY4-8JG4B-VKY8X-6TVDH-J7XFV |
+#### 2008 
+| Windows Version                                      | Product Key                   |
+|:-----------------------------------------------------|:------------------------------|
+| Windows Server 2008 Standard                         | TM24T-X9RMF-VWXK6-X8JC9-BFGM2 |
+| Windows Server 2008 Web                              | WYR28-R7TFJ-3X2YQ-YCY4H-M249D |
+| Windows Server 2008 HPC                              | RCTX3-KWVHP-BR6TB-RB6DM-6X7HP |
+| Windows Server 2008 Enterprise                       | YQGMW-MPWTJ-34KDK-48M3W-X4Q6V |
+| Windows Server 2008 Itanium                          | 7YKJ4-CX8QP-Q23QY-7BYQM-H2893 |
+| Windows Server 2008 Datacenter                       | 7M67G-PC374-GR742-YH8V4-TCBY3 |
