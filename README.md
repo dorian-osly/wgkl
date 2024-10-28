@@ -5,6 +5,7 @@ Feel free to open an issue if there's anything missing.
 ## Note : **these are NOT product / license keys that are valid for Windows activation.**
 These keys only select the edition of Windows to install during setup, but they do not activate or license the installation.
 (Server versions are all the way down!)
+(Most keys are retail ones, if not, there will be the tag (OEM), (VL) or something else besides it.)
 _____
 
 ### Windows 11
@@ -107,3 +108,24 @@ _____
 | Windows 7 Professional E          | 3YHKG-DVQ27-RYRBX-JMPVM-WG38T |
 | Windows 7 Ultimate E              | TWMF7-M387V-XKW4Y-PVQQD-RK7C8 |
 | Windows 7 Enterprise E            | H3V6Q-JKQJG-GKVK3-FDDRF-TCKVR |
+
+### Windows Vista
+
+| Windows Version                   | Product Key                   |
+|:----------------------------------|:------------------------------|
+| Windows Vista Starter             | X9PYV-YBQRV-9BXWV-TQDMK-QDWK4 |
+| Windows Vista Home Basic          | RCG7P-TX42D-HM8FM-TCFCW-3V4VD |
+| Windows Vista Home Premium        | X9HTF-MKJQQ-XK376-TJ7T4-76PKF |
+| Windows Vista Professional        | 4D2XH-PRBMM-8Q22B-K8BM3-MRW4W |
+| Windows Vista Ultimate            | VMCB9-FDRV6-6CDQM-RV23K-RP8F7 |
+
+### Windows XP
+
+| Windows Version                   | Product Key                   |
+|:----------------------------------|:------------------------------|
+| Windows XP Home                   |	RH6M6-7PPK4-YR86H-YFFFX-PW8M8 |
+| Windows XP Home (OEM)             |	JQ4T4-8VM63-6WFBK-KTT29-V8966 |
+| Windows XP Professional           |	CD87T-HFP4C-V7X7H-8VY68-W7D7M |
+| Windows XP Professional (OEM)     |	XJM6Q-BQ8HW-T6DFB-Y934T-YD4YT |
+| Windows XP Professional (VL)      |	M6TF9-8XQ2M-YQK9F-7TBB2-XGG88 |
+| Windows XP Professional x64 (VL)  |	B66VY-4D94T-TPPD4-43F72-8X4FY |
