@@ -130,6 +130,13 @@ _____
 | Windows XP Professional (VL)                        |	M6TF9-8XQ2M-YQK9F-7TBB2-XGG88 |
 | Windows XP Professional x64 (VL)                    |	B66VY-4D94T-TPPD4-43F72-8X4FY |
 
+### Windows 98
+
+| Windows Version                                     | Product Key                   |
+|:----------------------------------------------------|:------------------------------|
+| Windows 98 Seconde Edition (Retail)                 |	K4HVD-Q9TJ9-6CRX9-C9G68-RQ2D3 |
+| Windows 98 Seconde Edition (OEM)                    |	PRDDH-83JD9-G6PK4-684GF-6Y73B |
+
 _____
 
 ### Windows Server
