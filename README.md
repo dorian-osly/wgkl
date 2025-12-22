@@ -26,7 +26,7 @@ _____
 | Windows 11 Education N               | 84NGF-MHBT6-FXBX8-QWJK7-DRR8H |
 | Windows 11 Enterprise                | XGVPP-NMH47-7TTHJ-W3FW7-8HV2C |
 | Windows 11 Enterprise N              | WGGHN-J84D6-QYCPR-T7PJ7-X766F |
-| Windows 11 Enterprise G              |                               |
+| Windows 11 Enterprise G              | YYVX9-NTFWV-6MDM3-9PT4T-4M68B |
 | Windows 11 Enterprise G N            | FW7NV-4T673-HF4VX-9X4MM-B4H4T |
 
 ### Windows 10
