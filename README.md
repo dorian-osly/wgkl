@@ -2,7 +2,7 @@
 This is a list of Windows generic license keys.
 Feel free to open an issue if there's anything missing.
 
-## Note : **these are NOT product / license keys that are valid for Windows activation.**
+## Note: **these are NOT product / license keys that are valid for Windows activation.**
 These keys only select the edition of Windows to install during setup, but they do not activate or license the installation.
 (Server versions are all the way down!)
 (Most keys are retail ones, if not, there will be the tag (OEM), (VL) or something else besides it.)
